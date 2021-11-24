@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Viewmodels</string>
+    <string name="sumar">Sumar</string>
+    <string name="numero">Número</string>
+    <string name="restar">Restar</string>
+</resources>
